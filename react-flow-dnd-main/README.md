@@ -6,12 +6,6 @@ This project is a technical assessment implementation that recreates core functi
 
 **Frontend:** [Live Site URL](https://vectorshift-task.vercel.app/)
 
-**Code Repo:** [Repository URL](https://github.com/RutamBhagat/vectorshift_task)
-
-## Demo Video
-
-[Watch the Walkthrough](https://youtu.be/vURcGmZQdWk)
-
 ## Key Features
 
 - **Node Abstraction**: Implemented a flexible node system supporting various node types (Inputs, Outputs, LLMs, Text)
