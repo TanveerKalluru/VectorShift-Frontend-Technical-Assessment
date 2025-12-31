@@ -17,7 +17,6 @@ const DEFAULT_MARKER = {
 export const useStore = create(
   persist(
     (set, get) => ({
-      // State
       nodes: [],
       edges: [],
       nodeIDs: {},
@@ -29,7 +28,6 @@ export const useStore = create(
       isAnimated: true,
       isMenuOpen: false,
 
-      // Getters
       getNodes: () => get().nodes,
       getEdges: () => get().edges,
       getNodeID: (type) => {
@@ -42,7 +40,6 @@ export const useStore = create(
         return `${type}-${newIDs[type]}`;
       },
 
-      // Node operations
       addNode: (node) => {
         set({
           nodes: [...get().nodes, node],
@@ -72,7 +69,6 @@ export const useStore = create(
         });
       },
 
-      // Edge operations
       onEdgesChange: (changes) => {
         set({
           edges: applyEdgeChanges(changes, get().edges),

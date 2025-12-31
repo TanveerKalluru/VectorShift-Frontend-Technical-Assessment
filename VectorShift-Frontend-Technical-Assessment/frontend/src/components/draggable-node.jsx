@@ -10,7 +10,6 @@ export const DraggableNode = ({ type, label, icon: Icon, className }) => {
     );
     event.dataTransfer.effectAllowed = "move";
 
-    // Add dragging cursor to body to maintain during drag
     document.body.style.cursor = "grabbing";
   };
 
