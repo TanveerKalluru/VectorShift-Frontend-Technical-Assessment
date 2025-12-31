@@ -4,13 +4,7 @@
 
 This project is a technical assessment implementation that recreates core functionalities of VectorShift's main application. The focus was on building a node-based workflow builder with features like node abstraction, dynamic styling, and backend integration for pipeline validation. The implementation showcases modern web development practices and attention to user experience.
 
-**Frontend:** [Live Site URL](https://vectorshift-task.vercel.app/)
-
-**Code Repo:** [Repository URL](https://github.com/RutamBhagat/vectorshift_task)
-
-## Demo Video
-
-[Watch the Walkthrough](https://youtu.be/vURcGmZQdWk)
+**Frontend:** [Live Site URL](https://vector-shift-frontend-technical-ass-mauve.vercel.app/)
 
 ## Key Features
 
@@ -134,12 +128,3 @@ The implementation successfully meets all assessment requirements while maintain
 - Efficient backend integration
 - Comprehensive pipeline validation
 - Modern styling implementation
-
-# Screenshots
-
-![0](https://github.com/user-attachments/assets/ea8464d2-580f-4a19-a263-504f148d93c7)
-![1](https://github.com/user-attachments/assets/30c1533d-6029-462b-a80f-4c679a640d2c)
-![2](https://github.com/user-attachments/assets/3de071a6-b1f6-4d14-8a10-9bc084b62e23)
-![3](https://github.com/user-attachments/assets/2239d747-ece2-453c-b696-68f283cc4551)
-![4](https://github.com/user-attachments/assets/ca0cf29d-9c7c-48f0-82f2-832eba6c31e1)
-![5](https://github.com/user-attachments/assets/5430c311-e2b7-46fb-8271-8167ce05db25)
